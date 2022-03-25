@@ -23,7 +23,7 @@
 ![github](https://img.icons8.com/ios-filled/32/000000/github.png) GITHUB
 
 
-<h1 align="center">Vamos Codar Juntos </h1>
+<h1 align="center"> <img src="https://64.media.tumblr.com/11b9dfe8aaecf052067f5155bff24d0f/tumblr_n651cv1Nz41snc5kxo1_640.gifv" alt="estrela" width="30px"> Vamos Codar Juntos <img src="https://64.media.tumblr.com/11b9dfe8aaecf052067f5155bff24d0f/tumblr_n651cv1Nz41snc5kxo1_640.gifv" alt="estrela" width="30px"> </h1> 
 <p align="center">
-  <img src="https://media4.giphy.com/media/lTRuG1F4VZ3LHMpXY2/giphy.gif?cid=ecf05e47wc6f72oe2s154j36bp4g2o2uzhwl2gtn4p449fkm&rid=giphy.gif&ct=g" alt="cachorro codando">
+  <img src="http://pa1.narvii.com/6722/844d5244bfa67ec4ef5a26b6c8ad694a7707b95c_00.gif" alt="gunball teclando">
 </p>
