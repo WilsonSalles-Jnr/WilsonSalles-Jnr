@@ -23,7 +23,8 @@
 ![github](https://img.icons8.com/ios-filled/32/000000/github.png) GITHUB
 
 
-<h1 align="center"> <img src="https://64.media.tumblr.com/11b9dfe8aaecf052067f5155bff24d0f/tumblr_n651cv1Nz41snc5kxo1_640.gifv" alt="estrela" width="30px"> Vamos Codar Juntos <img src="https://64.media.tumblr.com/11b9dfe8aaecf052067f5155bff24d0f/tumblr_n651cv1Nz41snc5kxo1_640.gifv" alt="estrela" width="30px"> </h1> 
+<h1 align="center"> <img src="https://64.media.tumblr.com/11b9dfe8aaecf052067f5155bff24d0f/tumblr_n651cv1Nz41snc5kxo1_640.gifv" alt="estrela" width="30px"> Vamos Codar Juntos <img src="https://64.media.tumblr.com/11b9dfe8aaecf052067f5155bff24d0f/tumblr_n651cv1Nz41snc5kxo1_640.gifv" alt="estrela" width="30px"> 
 <p align="center">
-  <img src="http://pa1.narvii.com/6722/844d5244bfa67ec4ef5a26b6c8ad694a7707b95c_00.gif" alt="gunball teclando">
+<img height="180px" src="https://github-readme-stats.vercel.app/api?username=wilsonsalles-jnr&show_icons=true&theme=radical" alt="rank stats" />
+<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilsonsalles-jnr&layout=compact&theme=radical" alt="top langs" />
 </p>
