@@ -25,6 +25,6 @@
 
 <h1 align="center"> <img src="https://64.media.tumblr.com/11b9dfe8aaecf052067f5155bff24d0f/tumblr_n651cv1Nz41snc5kxo1_640.gifv" alt="estrela" width="30px"> Vamos Codar Juntos <img src="https://64.media.tumblr.com/11b9dfe8aaecf052067f5155bff24d0f/tumblr_n651cv1Nz41snc5kxo1_640.gifv" alt="estrela" width="30px"> 
 <p align="center">
-<img height="130px" src="https://github-readme-stats.vercel.app/api?username=wilsonsalles-jnr&show_icons=true&theme=radical" alt="rank stats" />
-<img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilsonsalles-jnr&layout=compact&theme=radical" alt="top langs" />
+<img height="160px" src="https://github-readme-stats.vercel.app/api?username=wilsonsalles-jnr&show_icons=true&theme=radical" alt="rank stats" />
+<img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilsonsalles-jnr&layout=compact&theme=radical" alt="top langs" />
 </p>
